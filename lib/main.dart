@@ -1,6 +1,6 @@
  void main (){
 
-  int age = 17;
+  int age = 77;
 
   if (age >= 18){
     print ("Adult");
